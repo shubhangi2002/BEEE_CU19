@@ -15,5 +15,4 @@ void loop() {
   lcd.setCursor(0, 1);
   lcd.print(millis() / 1000);
 }
-//Name - Aman Kumar
-//UID - 19BCS3520
+
