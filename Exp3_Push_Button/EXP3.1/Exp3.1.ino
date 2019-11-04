@@ -16,5 +16,3 @@ void loop(){
     digitalWrite(ledPin, HIGH); 
   }
 }
-//Made by - Aman Kumar
-//UID - 19BCS3520
