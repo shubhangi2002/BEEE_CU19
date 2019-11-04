@@ -26,5 +26,4 @@ void loop()
   Serial.print("Distance: ");
   Serial.println(distance);
 }
-//Name - Aman Kumar
-//UID - 19BCS3520
+
